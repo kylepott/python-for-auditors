@@ -1,0 +1,15 @@
+My favorite packages to explore for auditors:
+
+1. Pandas - High-performance, easy-to-use data structures and data analysis tools for the Python programming language -  https://pandas.pydata.org/docs/
+
+2. Numpy - The fundamental package for scientific computing with Python - https://numpy.org/
+
+3. PyOD - PyOD is the most comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. - https://pyod.readthedocs.io/en/latest/
+
+4. Beautiful Soup - Python library for pulling data out of HTML and XML files. (Web Scraping) https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+5. Gensim - Library for Natural Language Processing - https://radimrehurek.com/gensim/
+
+6. FuzzyWuzzy - String matching - https://pypi.org/project/fuzzywuzzy/
+
+7. Sklearn - Machine Learning in Python - https://scikit-learn.org/stable/
