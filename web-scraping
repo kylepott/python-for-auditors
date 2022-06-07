@@ -1,0 +1,3 @@
+Here's a tutorial I wrote a few years ago to scrape the web with Python using the scrapy package: https://technicalagain.com/2018/05/18/writing-a-web-crawler-with-scrapy/
+
+You can also check out Beautiful Soup and Selenium are both good web scraping packages with many tutorials.
